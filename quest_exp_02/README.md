@@ -12,6 +12,7 @@
 ![image](https://github.com/sujin7822/AIFFEL_Quest-fork/assets/122075306/56ca72b7-cdbc-4865-95e4-aa8161262ee5)
 - 노드 내용에 맞게 코드를 잘 작성해주셨고 케글에도 성공적으로 올리셨습니다.
     
+
 - [ ]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
     - 해당 코드 블럭에 doc string/annotation이 달려 있는지 확인
